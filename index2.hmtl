@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Camperleveling – Impressum &amp; Datenschutz / Privacy</title>
+<style>
+  :root { color-scheme: light dark; --fg:#1b1b1b; --bg:#ffffff; --muted:#5c5c5c; --line:#dddddd; --accent:#2e7d32; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg:#e8e8e8; --bg:#161a1d; --muted:#a5a5a5; --line:#33393d; --accent:#66bb6a; }
+  }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+         color:var(--fg); background:var(--bg); line-height:1.6; }
+  main { max-width:760px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { margin:0 0 8px; font-size:1.8rem; color:var(--accent); }
+  h2 { margin:28px 0 8px; font-size:1.3rem; }
+  h3 { margin:20px 0 4px; font-size:1.05rem; }
+  p, address { margin:0 0 10px; font-style:normal; }
+  nav { margin:12px 0 0; }
+  nav a { color:var(--accent); text-decoration:none; }
+  nav a:hover { text-decoration:underline; }
+  section { margin-top:40px; padding-top:8px; border-top:1px solid var(--line); }
+  .muted { color:var(--muted); font-size:0.9rem; }
+</style>
+</head>
+<body>
+<main>
+<h1>Camperleveling</h1>
+<nav><a href="#de">Deutsch</a> · <a href="#en">English</a> · <a href="#fr">Français</a> · <a href="#es">Español</a> · <a href="#zh">中文</a></nav>
+<section id="de" lang="de">
+<h2>Impressum</h2>
+<p>Angaben gemäß § 5 DDG:</p>
+<address>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Deutschland<br>E-Mail: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></address>
+<h2>Datenschutzerklärung</h2>
+<p class="muted">Stand: 28.11.2026</p>
+<h3>Verantwortlicher</h3>
+<p>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Deutschland<br>E-Mail: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></p>
+<h3>Kurzfassung</h3>
+<p>Camperleveling erhebt, speichert und übermittelt keine personenbezogenen Daten. Die App hat keinen Internetzugriff, enthält keine Werbung, keine Statistik- oder Tracking-Dienste und benötigt kein Benutzerkonto.</p>
+<h3>Beschleunigungssensor</h3>
+<p>Die App liest den Beschleunigungssensor deines Geräts, um die Neigung zu berechnen. Die Messwerte werden nur in Echtzeit auf dem Gerät verarbeitet und weder gespeichert noch weitergegeben.</p>
+<h3>Lokal gespeicherte Einstellungen</h3>
+<p>Fahrzeugmaße, Keilhöhen, Ampelgrenzen, Sprache, Anzeigeträgheit und der Nullpunkt werden ausschließlich auf deinem Gerät gespeichert. Sie verlassen das Gerät nicht und werden beim Deinstallieren der App oder beim Löschen der App-Daten entfernt.</p>
+<h3>Google Play und freiwilliger Kauf</h3>
+<p>Wenn du die App über Google Play installierst, verarbeitet Google möglicherweise Daten nach den eigenen Datenschutzbestimmungen. Darauf habe ich keinen Einfluss. Das gilt auch für den optionalen In-App-Kauf „Kaffee spendieren“: Die Zahlung wird vollständig von Google Play abgewickelt. Zahlungsdaten erhalte ich nicht, die App speichert keine Kaufdaten, und in der Play Console sehe ich nur eingeschränkte Bestellangaben (z. B. Produkt, Betrag und Zeitpunkt).</p>
+<h3>Hosting dieser Webseite</h3>
+<p>Beim Aufruf dieser Seite verarbeitet der Hosting-Anbieter (GitHub Inc., USA) technisch bedingt Verbindungsdaten, zum Beispiel die IP-Adresse. Darauf habe ich keinen Einfluss. Die App selbst baut keine Verbindung zu dieser Seite auf.</p>
+<h3>Deine Rechte</h3>
+<p>Da keine personenbezogenen Daten verarbeitet werden, habe ich keine Daten, die ich dir mitteilen oder löschen könnte. Dir stehen die Rechte nach der DSGVO zu, unter anderem auf Auskunft, Berichtigung, Löschung und Beschwerde bei einer Datenschutzaufsichtsbehörde. Bei Fragen schreib mir an die oben genannte E-Mail-Adresse.</p>
+</section>
+<section id="en" lang="en">
+<h2>Legal notice</h2>
+<p>Information pursuant to § 5 DDG (German Digital Services Act):</p>
+<address>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Germany<br>E-mail: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></address>
+<h2>Privacy policy</h2>
+<p class="muted">Last updated: 28 November 2026</p>
+<h3>Controller</h3>
+<p>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Germany<br>E-mail: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></p>
+<h3>In short</h3>
+<p>Camperleveling does not collect, store or transmit any personal data. The app has no internet access, contains no advertising, no analytics or tracking services and needs no user account.</p>
+<h3>Accelerometer</h3>
+<p>The app reads your device&#x27;s accelerometer to calculate the tilt. The readings are processed in real time on the device only and are neither stored nor shared.</p>
+<h3>Locally stored settings</h3>
+<p>Vehicle dimensions, ramp heights, color limits, language, display smoothing and the zero point are stored on your device only. They never leave the device and are removed when you uninstall the app or clear its data.</p>
+<h3>Google Play and the voluntary purchase</h3>
+<p>If you install the app via Google Play, Google may process data under its own privacy policy, which I cannot influence. This also applies to the optional in-app purchase “Buy me a coffee”: payment is handled entirely by Google Play. I do not receive any payment details, the app does not store purchase data, and in the Play Console I only see limited order information (e.g. product, amount and time).</p>
+<h3>Hosting of this website</h3>
+<p>When you open this page, the hosting provider (GitHub Inc., USA) processes connection data such as your IP address for technical reasons. I cannot influence this. The app itself does not connect to this page.</p>
+<h3>Your rights</h3>
+<p>Since no personal data is processed, I hold no data that I could disclose or delete. You still have the rights granted by the GDPR, including access, rectification, erasure and the right to lodge a complaint with a data protection authority. If you have questions, write to me at the e-mail address above.</p>
+</section>
+<section id="fr" lang="fr">
+<h2>Mentions légales</h2>
+<p>Informations selon le § 5 DDG (loi allemande sur les services numériques) :</p>
+<address>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Allemagne<br>E-mail: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></address>
+<h2>Politique de confidentialité</h2>
+<p class="muted">Dernière mise à jour : 28 novembre 2026</p>
+<h3>Responsable du traitement</h3>
+<p>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Allemagne<br>E-mail: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></p>
+<h3>En bref</h3>
+<p>Camperleveling ne collecte, ne stocke et ne transmet aucune donnée personnelle. L&#x27;application n&#x27;a pas d&#x27;accès à Internet, ne contient ni publicité ni outil de statistiques ou de suivi, et ne nécessite aucun compte utilisateur.</p>
+<h3>Capteur d&#x27;accélération</h3>
+<p>L&#x27;application lit le capteur d&#x27;accélération de votre appareil pour calculer l&#x27;inclinaison. Les mesures sont traitées en temps réel sur l&#x27;appareil, ni enregistrées ni transmises.</p>
+<h3>Paramètres enregistrés localement</h3>
+<p>Les dimensions du véhicule, les hauteurs des cales, les seuils de couleur, la langue, l&#x27;amortissement de l&#x27;affichage et le point zéro sont enregistrés uniquement sur votre appareil. Ils ne le quittent pas et sont supprimés lors de la désinstallation de l&#x27;application ou de l&#x27;effacement de ses données.</p>
+<h3>Google Play et achat facultatif</h3>
+<p>Si vous installez l&#x27;application via Google Play, Google peut traiter des données selon ses propres règles de confidentialité, sur lesquelles je n&#x27;ai aucune influence. Cela vaut aussi pour l&#x27;achat intégré facultatif « Offrir un café » : le paiement est entièrement géré par Google Play. Je ne reçois aucune donnée de paiement, l&#x27;application n&#x27;enregistre aucune donnée d&#x27;achat et, dans la Play Console, je ne vois que des informations de commande limitées (par ex. produit, montant et date).</p>
+<h3>Hébergement de ce site</h3>
+<p>Lors de l&#x27;accès à cette page, l&#x27;hébergeur (GitHub Inc., USA) traite pour des raisons techniques des données de connexion, par exemple l&#x27;adresse IP. Je n&#x27;ai aucune influence à ce sujet. L&#x27;application elle-même ne se connecte pas à cette page.</p>
+<h3>Vos droits</h3>
+<p>Comme aucune donnée personnelle n&#x27;est traitée, je n&#x27;ai aucune donnée à communiquer ou à supprimer. Vous disposez néanmoins des droits prévus par le RGPD, notamment le droit d&#x27;accès, de rectification, d&#x27;effacement et de réclamation auprès d&#x27;une autorité de protection des données. Pour toute question, écrivez-moi à l&#x27;adresse e-mail indiquée ci-dessus.</p>
+</section>
+<section id="es" lang="es">
+<h2>Aviso legal</h2>
+<p>Datos según el § 5 DDG (ley alemana de servicios digitales):</p>
+<address>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Alemania<br>Correo electrónico: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></address>
+<h2>Política de privacidad</h2>
+<p class="muted">Última actualización: 28 de noviembre de 2026</p>
+<h3>Responsable</h3>
+<p>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>Alemania<br>Correo electrónico: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></p>
+<h3>Resumen</h3>
+<p>Camperleveling no recopila, almacena ni transmite datos personales. La app no tiene acceso a Internet, no contiene publicidad ni servicios de estadísticas o seguimiento y no requiere cuenta de usuario.</p>
+<h3>Sensor de aceleración</h3>
+<p>La app lee el sensor de aceleración de tu dispositivo para calcular la inclinación. Los valores se procesan solo en tiempo real en el dispositivo y no se guardan ni se comparten.</p>
+<h3>Ajustes guardados localmente</h3>
+<p>Las medidas del vehículo, las alturas de los calzos, los límites de color, el idioma, el suavizado de la pantalla y el punto cero se guardan únicamente en tu dispositivo. No salen de él y se eliminan al desinstalar la app o borrar sus datos.</p>
+<h3>Google Play y compra voluntaria</h3>
+<p>Si instalas la app desde Google Play, Google puede tratar datos según su propia política de privacidad, sobre la que no tengo influencia. Esto también se aplica a la compra integrada opcional «Invítame a un café»: el pago lo gestiona por completo Google Play. No recibo datos de pago, la app no guarda datos de compra y en la Play Console solo veo información limitada del pedido (p. ej., producto, importe y hora).</p>
+<h3>Alojamiento de este sitio web</h3>
+<p>Al abrir esta página, el proveedor de alojamiento (GitHub Inc., USA) trata por motivos técnicos datos de conexión, por ejemplo la dirección IP. No tengo influencia sobre ello. La app en sí no se conecta a esta página.</p>
+<h3>Tus derechos</h3>
+<p>Como no se tratan datos personales, no tengo datos que pueda facilitar o eliminar. Aun así, tienes los derechos que otorga el RGPD, entre ellos acceso, rectificación, supresión y reclamación ante una autoridad de protección de datos. Si tienes preguntas, escríbeme a la dirección de correo indicada arriba.</p>
+</section>
+<section id="zh" lang="zh-Hans">
+<h2>法律声明</h2>
+<p>依据德国《数字服务法》(DDG) 第 5 条提供的信息：</p>
+<address>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>德国<br>电子邮件: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></address>
+<h2>隐私政策</h2>
+<p class="muted">最后更新：2026 年 11 月 28 日</p>
+<h3>责任方</h3>
+<p>Stefan Kraft<br>Ludwig-Runzheimer-Straße 17<br>35075 Gladenbach<br>德国<br>电子邮件: <a href="mailto:camperleveling@stefankraft.info">camperleveling@stefankraft.info</a></p>
+<h3>简述</h3>
+<p>Camperleveling 不收集、不存储、也不传输任何个人数据。本应用没有联网权限，不含广告，不含统计或跟踪服务，也无需用户账号。</p>
+<h3>加速度传感器</h3>
+<p>本应用读取设备的加速度传感器来计算倾斜角度。测量值仅在设备上实时处理，不会被保存或传输。</p>
+<h3>本地保存的设置</h3>
+<p>车辆尺寸、垫块高度、颜色阈值、语言、显示平滑度和零点仅保存在您的设备上，不会离开设备，卸载应用或清除应用数据时会一并删除。</p>
+<h3>Google Play 与自愿购买</h3>
+<p>如果您通过 Google Play 安装本应用，Google 可能会按其自身的隐私政策处理数据，我对此没有影响。这同样适用于可选的应用内购买“请我喝杯咖啡”：付款完全由 Google Play 处理。我不会收到任何付款信息，应用本身不保存购买数据，在 Play Console 中我只能看到有限的订单信息（例如商品、金额和时间）。</p>
+<h3>本网站的托管</h3>
+<p>访问本页面时，托管服务提供商（GitHub Inc., USA）出于技术原因会处理连接数据，例如 IP 地址，我对此没有影响。应用本身不会连接到此页面。</p>
+<h3>您的权利</h3>
+<p>由于不处理任何个人数据，我这里没有可供查询或删除的数据。您仍享有《通用数据保护条例》(GDPR) 规定的权利，包括查阅、更正、删除以及向数据保护监管机构投诉的权利。如有疑问，请发邮件至上述电子邮件地址。</p>
+</section>
+</main>
+</body>
+</html>
